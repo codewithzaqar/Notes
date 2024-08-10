@@ -11,7 +11,4 @@ This is only used to distribute the Sourcebook release package. Please go to:
 * [Siyuan Notes Discussion Forum](https://hacpai.com/tag/siyuan)
 * [Siyuan Notes QQ Group](https://jq.qq.com/?_wv=1027&k=brIyNm7y)
 
-For development plans and version changes, please refer to:
-
-* [SourceBook development plan and progress](https://github.com/siyuan-note/siyuan/projects/1)
-* [SourceBook version change history](https://github.com/siyuan-note/siyuan/blob/master/CHANGE_LOGS.md)
+If you want to know version change details of Siyuan Notes, please check [CHANGE_LOGS]()
