@@ -1,6 +1,6 @@
-<p align="center">
+This is only used to distribute the Sourcebook release package. If you need feedback or questions, please go to:
 
-<img style="align:center;" src="https://app.notesnook.com/apple-touch-icon.png" alt="Notesnook Logo" width="100" />
+* [Siyuan Notes Discussion Forum](https://hacpai.com/tag/siyuan)
+* [Siyuan Notes QQ Group](https://jq.qq.com/?_wv=1027&k=brIyNm7y)
 
-<h1 align="center">Notesnook</h1>
-<h2 align="center">Take private notes, capture ideas, make lists & sync them anywhere</h2>
+If you want to know version change details of Siyuan Notes, please check [CHANGE_LOGS]()
